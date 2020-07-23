@@ -10,3 +10,4 @@ See also: https://www.data.gv.at/covid-19/
 
 ## License
 This compilation is licensed under the CC-BY-SA 4.0 license.
+[License Terms](LICENSE.txt)
