@@ -5,8 +5,7 @@ The ministry's data is updated every hour, but - for the most part - does NOT co
 
 ## Format
 
-A full SQL dumpfile is provided for people who have access to an SQL server. For others, there are a couple of TAB-separated CSVs hopefully satisfying most demands.
-All files are in the 7z-format ( https://www.7-zip.org/ ).
+A full SQL dumpfile is provided for people who have access to an SQL server. For others, there are a couple of TAB-separated TSVs hopefully satisfying most demands.
 
 ## Credits
 
