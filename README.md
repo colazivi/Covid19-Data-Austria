@@ -1,7 +1,13 @@
-# legendary-train
+# Covid19-Data-Austria
 
 This repository contains an almost complete compilation of the CSVs related to the COVID-19 Outbreak in Austria which were provided by the Austrian Ministry of Health.
 The ministry's data is updated every hour, but - for the most part - does NOT contain any old entries which means that it is overwritten every hour. This is not an acceptable format for most purposes, so this repository aims to provide a timeline of the data.
+
+## Directory Structure
+
+/tsv/hourly_csv contains the data which was obtained from collecting and restructuring the ministry's hourly zip-files ( https://info.gesundheitsministerium.at/data/data.zip )
+
+tsv/website contains the data which was obtained from collecting the twice-daily updates of the ministry's website ( https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html )
 
 ## Format
 
