@@ -13,6 +13,8 @@ For checking the data's integrity, please refer to the originals' backups at arc
 
 /dump contains a recently updated database dump.
 
+/queries contains the SQL queries used for generating the tsv files.
+
 ## Format
 
 A full SQL dumpfile is provided for people who have access to an SQL server. For others, there are a couple of TAB-separated TSVs hopefully satisfying most demands.
@@ -27,3 +29,6 @@ Some of the older data from the ministry's website may be based on contributions
 ## License
 This compilation is licensed under the CC-BY-SA 4.0 license.
 [License Terms](LICENSE.txt)
+
+## Contribute
+If you find any error in the data or the queries, please contact me.
