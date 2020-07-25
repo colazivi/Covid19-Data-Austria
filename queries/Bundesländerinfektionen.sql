@@ -1,4 +1,4 @@
-SELECT DISTINCT DATE(A.Timestamp) AS Datum, TIME(A.Timestamp) AS Uhrzeit, A.Anzahl AS Burgenland, B.Anzahl AS Kärnten, C.Anzahl AS Niederösterreich, D.Anzahl AS Oberösterreich, E.Anzahl AS Salzburg, F.Anzahl AS Steiermark, G.Anzahl AS Tirol, H.Anzahl AS Vorarlberg, I.Anzahl AS Wien FROM Bundesländerinfektionen A
+SELECT DATE(A.Timestamp) AS Datum, TIME(A.Timestamp) AS Uhrzeit, A.Anzahl AS Burgenland, B.Anzahl AS Kärnten, C.Anzahl AS Niederösterreich, D.Anzahl AS Oberösterreich, E.Anzahl AS Salzburg, F.Anzahl AS Steiermark, G.Anzahl AS Tirol, H.Anzahl AS Vorarlberg, I.Anzahl AS Wien FROM Bundesländerinfektionen A
 
 INNER JOIN Bundesländerinfektionen B ON A.Timestamp=B.Timestamp AND B.GKZ=2
 INNER JOIN Bundesländerinfektionen C ON A.Timestamp=C.Timestamp AND C.GKZ=3
