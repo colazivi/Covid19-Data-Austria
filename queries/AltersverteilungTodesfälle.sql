@@ -9,4 +9,4 @@ INNER JOIN AltersverteilungTodesfälle H ON A.Timestamp=H.Timestamp AND H.Alters
 INNER JOIN AltersverteilungTodesfälle I ON A.Timestamp=I.Timestamp AND I.Altersgruppe=9
 INNER JOIN AltersverteilungTodesfälle J ON A.Timestamp=J.Timestamp AND J.Altersgruppe=10
 
-WHERE A.Altersgruppe=1 ORDER BY Datum, Uhrzeit;
+WHERE A.Altersgruppe=1 ORDER BY A.Timestamp;

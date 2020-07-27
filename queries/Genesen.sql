@@ -6,4 +6,4 @@ INNER JOIN GenesenTodesfälleBL F ON A.Timestamp=F.Timestamp AND F.GKZ=6
 INNER JOIN GenesenTodesfälleBL G ON A.Timestamp=G.Timestamp AND G.GKZ=7
 INNER JOIN GenesenTodesfälleBL H ON A.Timestamp=H.Timestamp AND H.GKZ=8
 INNER JOIN GenesenTodesfälleBL I ON A.Timestamp=I.Timestamp AND I.GKZ=9
-WHERE A.GKZ=1 ORDER BY Datum, Uhrzeit;
+WHERE A.GKZ=1 ORDER BY A.Timestamp;

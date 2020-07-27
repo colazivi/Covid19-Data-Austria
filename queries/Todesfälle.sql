@@ -9,4 +9,4 @@ INNER JOIN GenesenTodesfälleBL I ON A.Timestamp=I.Timestamp AND I.GKZ=9
 
 WHERE A.GKZ=1
 
-ORDER BY Datum, Uhrzeit;
+ORDER BY A.Timestamp;

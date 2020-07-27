@@ -25,4 +25,4 @@ INNER JOIN
 (SELECT SUM(Anzahl) AS Wien, Timestamp FROM Bezirksinfektionen WHERE GKZ BETWEEN 900 AND 999 GROUP BY Timestamp) I
 ON A.Timestamp=I.Timestamp
 
-ORDER BY Datum, Uhrzeit;
+ORDER BY A.Timestamp;

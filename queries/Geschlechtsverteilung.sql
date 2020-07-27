@@ -4,4 +4,4 @@ FROM Geschlechtsverteilung A
 INNER JOIN Geschlechtsverteilung B ON A.Timestamp=B.Timestamp AND B.Geschlecht=2
 
 WHERE A.Geschlecht=1
-ORDER BY Datum, Uhrzeit;
+ORDER BY A.Timestamp;
