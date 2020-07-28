@@ -1,5 +1,6 @@
-SELECT DATE(A.Timestamp) AS Datum, TIME(A.Timestamp) AS Uhrzeit, Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg, Wien, (IFNULL(Burgenland,0) + IFNULL(Kärnten,0) + IFNULL(Niederösterreich,0) + IFNULL(Oberösterreich,0) + IFNULL(Salzburg,0) + IFNULL(Steiermark,0) + IFNULL(Tirol,0) + IFNULL(Vorarlberg,0) + IFNULL(Wien,0)) AS Österreich FROM 
-(SELECT SUM(Anzahl) AS Burgenland, Timestamp FROM Bezirksinfektionen where GKZ BETWEEN 100 AND 199 GROUP BY Timestamp ) A
+SELECT DATE(A.Timestamp) AS Datum, TIME(A.Timestamp) AS Uhrzeit, Burgenland, Kärnten, Niederösterreich, Oberösterreich, Salzburg, Steiermark, Tirol, Vorarlberg, Wien, (IFNULL(Burgenland,0) + IFNULL(Kärnten,0) + IFNULL(Niederösterreich,0) + IFNULL(Oberösterreich,0) + IFNULL(Salzburg,0) + IFNULL(Steiermark,0) + IFNULL(Tirol,0) + IFNULL(Vorarlberg,0) + IFNULL(Wien,0)) AS Österreich FROM
+
+(SELECT SUM(Anzahl) AS Burgenland, Timestamp FROM Bezirksinfektionen WHERE GKZ BETWEEN 100 AND 199 GROUP BY Timestamp ) A
 INNER JOIN
 (SELECT SUM(Anzahl) AS Kärnten, Timestamp FROM Bezirksinfektionen WHERE GKZ BETWEEN 200 AND 299 GROUP BY Timestamp) B
 ON A.Timestamp=B.Timestamp
