@@ -1,0 +1,95 @@
+GKZ	Bezirk	Bundesland	Artikel	Differenz_Anzahl	Differenz_Inzidenz	Timestamp_Alt	Timestamp_Neu	Intervall
+701	Innsbruck-Stadt	Tirol	Innsbruck	190	143.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+900	Wien	Wien	Wien	2350	123.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+705	Kufstein	Tirol	Bezirk Kufstein	124	113.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+406	Freistadt	Oberösterreich	Bezirk Freistadt	70	105.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+102	Rust	Burgenland	Rust (Burgenland)	2	103.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+304	Wiener Neustadt	Niederösterreich	Wiener Neustadt	45	99.4	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+708	Reutte	Tirol	Bezirk Reutte	24	73.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+803	Dornbirn	Vorarlberg	Bezirk Dornbirn	63	70.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+106	Mattersburg	Burgenland	Bezirk Mattersburg	27	67.6	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+403	Wels	Oberösterreich	Wels (Stadt)	40	64.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+101	Eisenstadt	Burgenland	Eisenstadt	9	61.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+801	Bludenz	Vorarlberg	Bezirk Bludenz	39	61.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+709	Schwaz	Tirol	Bezirk Schwaz	51	60.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+601	Graz	Steiermark	Graz	174	60.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+318	Neunkirchen	Niederösterreich	Bezirk Neunkirchen	51	59.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+317	Mödling	Niederösterreich	Bezirk Mödling	69	58.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+323	Wiener Neustadt (Land)	Niederösterreich	Bezirk Wiener Neustadt-Land	44	56.4	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+306	Baden	Niederösterreich	Bezirk Baden (Niederösterreich)	82	56.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+103	Eisenstadt-Umgebung	Burgenland	Bezirk Eisenstadt-Umgebung	24	55.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+402	Steyr	Oberösterreich	Steyr	21	55.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+312	Korneuburg	Niederösterreich	Bezirk Korneuburg	50	55.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+410	Linz-Land	Oberösterreich	Bezirk Linz-Land	74	49.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+703	Innsbruck-Land	Tirol	Bezirk Innsbruck-Land	87	48.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+308	Gänserndorf	Niederösterreich	Bezirk Gänserndorf	47	45.3	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+409	Kirchdorf an der Krems	Oberösterreich	Bezirk Kirchdorf an der Krems	25	44.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+316	Mistelbach	Niederösterreich	Bezirk Mistelbach	33	43.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+302	St. Pölten	Niederösterreich	St. Pölten	24	43.6	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+307	Bruck an der Leitha	Niederösterreich	Bezirk Bruck an der Leitha	42	41.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+702	Imst	Tirol	Bezirk Imst	24	40.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+314	Lilienfeld	Niederösterreich	Bezirk Lilienfeld	10	38.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+804	Feldkirch	Vorarlberg	Bezirk Feldkirch	40	37.3	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+501	Salzburg (Stadt)	Salzburg	Salzburg (Stadt)	57	37.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+401	Linz	Oberösterreich	Linz	76	36.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+417	Vöcklabruck	Oberösterreich	Bezirk Vöcklabruck	50	36.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+415	Steyr-Land	Oberösterreich	Bezirk Steyr-Land	21	34.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+418	Wels-Land	Oberösterreich	Bezirk Wels-Land	24	32.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+321	Tulln	Niederösterreich	Bezirk Tulln	31	29.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+802	Bregenz	Vorarlberg	Bezirk Bregenz	40	29.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+704	Kitzbühel	Tirol	Bezirk Kitzbühel	19	29.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+404	Braunau am Inn	Oberösterreich	Bezirk Braunau am Inn	28	26.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+408	Grieskirchen	Oberösterreich	Bezirk Grieskirchen	17	26.3	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+506	Zell am See	Salzburg	Bezirk Zell am See	23	26.3	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+617	Weiz	Steiermark	Bezirk Weiz	23	25.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+319	St. Pölten (Land)	Niederösterreich	Bezirk St. Pölten-Land	33	25.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+706	Landeck	Tirol	Bezirk Landeck	11	24.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+208	Völkermarkt	Kärnten	Bezirk Völkermarkt	9	21.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+413	Rohrbach	Oberösterreich	Bezirk Rohrbach	12	21.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+416	Urfahr-Umgebung	Oberösterreich	Bezirk Urfahr-Umgebung	18	21.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+606	Graz-Umgebung	Steiermark	Bezirk Graz-Umgebung	31	20.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+504	Sankt Johann im Pongau	Salzburg	Bezirk Sankt Johann im Pongau	16	19.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+407	Gmunden	Oberösterreich	Bezirk Gmunden	20	19.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+620	Murtal	Steiermark	Bezirk Murtal	14	19.4	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+109	Oberwart	Burgenland	Bezirk Oberwart	10	18.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+414	Schärding	Oberösterreich	Bezirk Schärding	10	17.4	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+502	Hallein	Salzburg	Bezirk Hallein	10	16.6	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+621	Bruck-Mürzzuschlag	Steiermark	Bezirk Bruck-Mürzzuschlag	16	16.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+301	Krems an der Donau	Niederösterreich	Krems an der Donau	4	16.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+322	Waidhofen an der Thaya	Niederösterreich	Bezirk Waidhofen an der Thaya	4	15.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+603	Deutschlandsberg	Steiermark	Bezirk Deutschlandsberg	9	14.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+325	Zwettl	Niederösterreich	Bezirk Zwettl	6	14.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+313	Krems(Land)	Niederösterreich	Bezirk Krems-Land	8	14.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+310	Hollabrunn	Niederösterreich	Bezirk Hollabrunn	7	13.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+107	Neusiedl am See	Burgenland	Bezirk Neusiedl am See	8	13.4	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+412	Ried im Innkreis	Oberösterreich	Bezirk Ried im Innkreis	8	13.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+305	Amstetten	Niederösterreich	Bezirk Amstetten	14	12.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+411	Perg	Oberösterreich	Bezirk Perg	8	11.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+105	Jennersdorf	Burgenland	Bezirk Jennersdorf	2	11.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+104	Güssing	Burgenland	Bezirk Güssing	3	11.6	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+209	Wolfsberg	Kärnten	Bezirk Wolfsberg	6	11.4	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+202	Villach Stadt	Kärnten	Villach	7	11.2	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+610	Leibnitz	Steiermark	Bezirk Leibnitz	9	10.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+503	Salzburg-Umgebung	Salzburg	Bezirk Salzburg-Umgebung	16	10.5	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+611	Leoben	Steiermark	Bezirk Leoben	6	10.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+622	Hartberg-Fürstenfeld	Steiermark	Bezirk Hartberg-Fürstenfeld	9	9.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+201	Klagenfurt Stadt	Kärnten	Klagenfurt am Wörthersee	10	9.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+315	Melk	Niederösterreich	Bezirk Melk	7	9.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+612	Liezen (inkl. Gröbming)	Steiermark	Bezirk Liezen	7	8.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+207	Villach Land	Kärnten	Bezirk Villach-Land	5	7.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+204	Klagenfurt Land	Kärnten	Bezirk Klagenfurt-Land	4	6.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+616	Voitsberg	Steiermark	Bezirk Voitsberg	3	5.9	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+623	Südoststeiermark	Steiermark	Bezirk Südoststeiermark	5	5.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+108	Oberpullendorf	Burgenland	Bezirk Oberpullendorf	2	5.3	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+614	Murau	Steiermark	Bezirk Murau	1	3.6	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+210	Feldkirchen	Kärnten	Bezirk Feldkirchen	1	3.3	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+405	Eferding	Oberösterreich	Bezirk Eferding	1	3.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+309	Gmünd	Niederösterreich	Bezirk Gmünd	1	2.7	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+707	Lienz	Tirol	Bezirk Lienz	1	2.1	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+205	Sankt Veit an der Glan	Kärnten	Bezirk Sankt Veit an der Glan	1	1.8	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+303	Waidhofen an der Ybbs	Niederösterreich	Waidhofen an der Ybbs	0	0.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+206	Spittal an der Drau	Kärnten	Bezirk Spittal an der Drau	0	0.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+203	Hermagor	Kärnten	Bezirk Hermagor	0	0.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+311	Horn	Niederösterreich	Bezirk Horn	0	0.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+505	Tamsweg	Salzburg	Bezirk Tamsweg	0	0.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
+320	Scheibbs	Niederösterreich	Bezirk Scheibbs	0	0.0	2020-08-26 18:00:00	2020-09-09 18:00:00	14
