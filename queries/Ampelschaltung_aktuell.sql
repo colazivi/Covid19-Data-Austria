@@ -1,4 +1,4 @@
-SELECT Zeitpunkt, Ampel.GKZ, Ampelregionen.Region AS "Betroffene Ebene", Warnstufe, Bundesländer.Bundesland, Bezirke.Bezirk FROM Ampel
+SELECT Zeitpunkt, Ampelregionen.Region AS "Betroffene Ebene", Ampel.GKZ, Bundesländer.Bundesland, Bezirke.Bezirk, Warnstufe, Ampelfarben.Farbe FROM Ampel
 
 LEFT JOIN Ampelregionen
 	ON Ampel.Region=Ampelregionen.id
@@ -6,5 +6,7 @@ LEFT JOIN Bezirke
 	ON Ampel.GKZ=Bezirke.GKZ
 LEFT JOIN Bundesländer
 	ON Ampel.GKZ=Bundesländer.GKZ OR Bezirke.Bundesland=Bundesländer.GKZ
+INNER JOIN Ampelfarben
+	ON Ampelfarben.id=Ampel.Warnstufe
 
 WHERE Zeitpunkt = ( SELECT MAX(Zeitpunkt) FROM Ampel ) ORDER BY Zeitpunkt, Ampel.Region, Warnstufe DESC
