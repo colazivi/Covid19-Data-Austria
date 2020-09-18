@@ -1,6 +1,7 @@
 Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-04 10:30:00	Staat	0	NULL	NULL	1	grün
 2020-09-04 10:30:00	Bundesland	9	Wien	NULL	2	gelb
+2020-09-04 10:30:00	Bundesland	7	Tirol	NULL	1	grün
 2020-09-04 10:30:00	Bundesland	4	Oberösterreich	NULL	1	grün
 2020-09-04 10:30:00	Bundesland	8	Vorarlberg	NULL	1	grün
 2020-09-04 10:30:00	Bundesland	1	Burgenland	NULL	1	grün
@@ -8,10 +9,9 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-04 10:30:00	Bundesland	2	Kärnten	NULL	1	grün
 2020-09-04 10:30:00	Bundesland	6	Steiermark	NULL	1	grün
 2020-09-04 10:30:00	Bundesland	3	Niederösterreich	NULL	1	grün
-2020-09-04 10:30:00	Bundesland	7	Tirol	NULL	1	grün
-2020-09-04 10:30:00	Bezirk	401	Oberösterreich	Linz	2	gelb
 2020-09-04 10:30:00	Bezirk	601	Steiermark	Graz	2	gelb
 2020-09-04 10:30:00	Bezirk	705	Tirol	Kufstein	2	gelb
+2020-09-04 10:30:00	Bezirk	401	Oberösterreich	Linz	2	gelb
 2020-09-04 10:30:00	Bezirk	403	Oberösterreich	Wels	1	grün
 2020-09-04 10:30:00	Bezirk	410	Oberösterreich	Linz-Land	1	grün
 2020-09-04 10:30:00	Bezirk	103	Burgenland	Eisenstadt-Umgebung	1	grün
@@ -27,15 +27,16 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-11 10:30:00	Bundesland	6	Steiermark	NULL	1	grün
 2020-09-11 10:30:00	Bundesland	3	Niederösterreich	NULL	1	grün
 2020-09-11 10:30:00	Bundesland	7	Tirol	NULL	1	grün
-2020-09-11 10:30:00	Bezirk	408	Oberösterreich	Grieskirchen	2	gelb
-2020-09-11 10:30:00	Bezirk	705	Tirol	Kufstein	2	gelb
+2020-09-11 10:30:00	Bezirk	701	Tirol	Innsbruck-Stadt	2	gelb
 2020-09-11 10:30:00	Bezirk	304	Niederösterreich	Wiener Neustadt	2	gelb
 2020-09-11 10:30:00	Bezirk	413	Oberösterreich	Rohrbach	2	gelb
-2020-09-11 10:30:00	Bezirk	709	Tirol	Schwaz	2	gelb
+2020-09-11 10:30:00	Bezirk	705	Tirol	Kufstein	2	gelb
 2020-09-11 10:30:00	Bezirk	312	Niederösterreich	Korneuburg	2	gelb
-2020-09-11 10:30:00	Bezirk	601	Steiermark	Graz	2	gelb
+2020-09-11 10:30:00	Bezirk	709	Tirol	Schwaz	2	gelb
 2020-09-11 10:30:00	Bezirk	405	Oberösterreich	Eferding	2	gelb
-2020-09-11 10:30:00	Bezirk	701	Tirol	Innsbruck-Stadt	2	gelb
+2020-09-11 10:30:00	Bezirk	601	Steiermark	Graz	2	gelb
+2020-09-11 10:30:00	Bezirk	408	Oberösterreich	Grieskirchen	2	gelb
+2020-09-11 10:30:00	Bezirk	406	Oberösterreich	Freistadt	1	grün
 2020-09-11 10:30:00	Bezirk	306	Niederösterreich	Baden	1	grün
 2020-09-11 10:30:00	Bezirk	708	Tirol	Reutte	1	grün
 2020-09-11 10:30:00	Bezirk	401	Oberösterreich	Linz	1	grün
@@ -51,7 +52,6 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-11 10:30:00	Bezirk	106	Burgenland	Mattersburg	1	grün
 2020-09-11 10:30:00	Bezirk	703	Tirol	Innsbruck-Land	1	grün
 2020-09-11 10:30:00	Bezirk	323	Niederösterreich	Wiener Neustadt (Land)	1	grün
-2020-09-11 10:30:00	Bezirk	406	Oberösterreich	Freistadt	1	grün
 2020-09-14 22:00:00	Staat	0	NULL	NULL	1	grün
 2020-09-14 22:00:00	Bundesland	9	Wien	NULL	3	orange
 2020-09-14 22:00:00	Bundesland	8	Vorarlberg	NULL	2	gelb
@@ -61,12 +61,13 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-14 22:00:00	Bundesland	2	Kärnten	NULL	1	grün
 2020-09-14 22:00:00	Bundesland	6	Steiermark	NULL	1	grün
 2020-09-14 22:00:00	Bundesland	3	Niederösterreich	NULL	1	grün
+2020-09-14 22:00:00	Bezirk	803	Vorarlberg	Dornbirn	3	orange
+2020-09-14 22:00:00	Bezirk	701	Tirol	Innsbruck-Stadt	3	orange
 2020-09-14 22:00:00	Bezirk	705	Tirol	Kufstein	3	orange
 2020-09-14 22:00:00	Bezirk	317	Niederösterreich	Mödling	3	orange
 2020-09-14 22:00:00	Bezirk	801	Vorarlberg	Bludenz	3	orange
 2020-09-14 22:00:00	Bezirk	318	Niederösterreich	Neunkirchen	3	orange
-2020-09-14 22:00:00	Bezirk	803	Vorarlberg	Dornbirn	3	orange
-2020-09-14 22:00:00	Bezirk	701	Tirol	Innsbruck-Stadt	3	orange
+2020-09-14 22:00:00	Bezirk	603	Steiermark	Deutschlandsberg	2	gelb
 2020-09-14 22:00:00	Bezirk	411	Oberösterreich	Perg	2	gelb
 2020-09-14 22:00:00	Bezirk	403	Oberösterreich	Wels	2	gelb
 2020-09-14 22:00:00	Bezirk	313	Niederösterreich	Krems(Land)	2	gelb
@@ -80,8 +81,8 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-14 22:00:00	Bezirk	413	Oberösterreich	Rohrbach	2	gelb
 2020-09-14 22:00:00	Bezirk	405	Oberösterreich	Eferding	2	gelb
 2020-09-14 22:00:00	Bezirk	314	Niederösterreich	Lilienfeld	2	gelb
-2020-09-14 22:00:00	Bezirk	802	Vorarlberg	Bregenz	2	gelb
 2020-09-14 22:00:00	Bezirk	302	Niederösterreich	St. Pölten	2	gelb
+2020-09-14 22:00:00	Bezirk	802	Vorarlberg	Bregenz	2	gelb
 2020-09-14 22:00:00	Bezirk	418	Oberösterreich	Wels-Land	2	gelb
 2020-09-14 22:00:00	Bezirk	409	Oberösterreich	Kirchdorf an der Krems	2	gelb
 2020-09-14 22:00:00	Bezirk	401	Oberösterreich	Linz	2	gelb
@@ -90,8 +91,8 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-14 22:00:00	Bezirk	415	Oberösterreich	Steyr-Land	2	gelb
 2020-09-14 22:00:00	Bezirk	406	Oberösterreich	Freistadt	2	gelb
 2020-09-14 22:00:00	Bezirk	316	Niederösterreich	Mistelbach	2	gelb
-2020-09-14 22:00:00	Bezirk	804	Vorarlberg	Feldkirch	2	gelb
 2020-09-14 22:00:00	Bezirk	304	Niederösterreich	Wiener Neustadt	2	gelb
+2020-09-14 22:00:00	Bezirk	804	Vorarlberg	Feldkirch	2	gelb
 2020-09-14 22:00:00	Bezirk	601	Steiermark	Graz	2	gelb
 2020-09-14 22:00:00	Bezirk	410	Oberösterreich	Linz-Land	2	gelb
 2020-09-14 22:00:00	Bezirk	402	Oberösterreich	Steyr	2	gelb
@@ -101,7 +102,6 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-14 22:00:00	Bezirk	407	Oberösterreich	Gmunden	2	gelb
 2020-09-14 22:00:00	Bezirk	323	Niederösterreich	Wiener Neustadt (Land)	2	gelb
 2020-09-14 22:00:00	Bezirk	306	Niederösterreich	Baden	2	gelb
-2020-09-14 22:00:00	Bezirk	603	Steiermark	Deutschlandsberg	2	gelb
 2020-09-14 22:00:00	Bezirk	702	Tirol	Imst	1	grün
 2020-09-14 22:00:00	Bezirk	310	Niederösterreich	Hollabrunn	1	grün
 2020-09-14 22:00:00	Bezirk	704	Tirol	Kitzbühel	1	grün
@@ -109,3 +109,125 @@ Zeitpunkt	Betroffene Ebene	GKZ	Bundesland	Bezirk	Warnstufe	Farbe
 2020-09-14 22:00:00	Bezirk	708	Tirol	Reutte	1	grün
 2020-09-14 22:00:00	Bezirk	611	Steiermark	Leoben	1	grün
 2020-09-14 22:00:00	Bezirk	202	Kärnten	Villach Stadt	1	grün
+2020-09-15 10:30:00	Staat	0	NULL	NULL	1	grün
+2020-09-15 10:30:00	Bundesland	9	Wien	NULL	3	orange
+2020-09-15 10:30:00	Bundesland	8	Vorarlberg	NULL	2	gelb
+2020-09-15 10:30:00	Bundesland	4	Oberösterreich	NULL	1	grün
+2020-09-15 10:30:00	Bundesland	1	Burgenland	NULL	1	grün
+2020-09-15 10:30:00	Bundesland	5	Salzburg	NULL	1	grün
+2020-09-15 10:30:00	Bundesland	2	Kärnten	NULL	1	grün
+2020-09-15 10:30:00	Bundesland	6	Steiermark	NULL	1	grün
+2020-09-15 10:30:00	Bundesland	3	Niederösterreich	NULL	1	grün
+2020-09-15 10:30:00	Bezirk	803	Vorarlberg	Dornbirn	3	orange
+2020-09-15 10:30:00	Bezirk	701	Tirol	Innsbruck-Stadt	3	orange
+2020-09-15 10:30:00	Bezirk	705	Tirol	Kufstein	3	orange
+2020-09-15 10:30:00	Bezirk	317	Niederösterreich	Mödling	3	orange
+2020-09-15 10:30:00	Bezirk	801	Vorarlberg	Bludenz	3	orange
+2020-09-15 10:30:00	Bezirk	318	Niederösterreich	Neunkirchen	3	orange
+2020-09-15 10:30:00	Bezirk	416	Oberösterreich	Urfahr-Umgebung	2	gelb
+2020-09-15 10:30:00	Bezirk	407	Oberösterreich	Gmunden	2	gelb
+2020-09-15 10:30:00	Bezirk	323	Niederösterreich	Wiener Neustadt (Land)	2	gelb
+2020-09-15 10:30:00	Bezirk	306	Niederösterreich	Baden	2	gelb
+2020-09-15 10:30:00	Bezirk	603	Steiermark	Deutschlandsberg	2	gelb
+2020-09-15 10:30:00	Bezirk	411	Oberösterreich	Perg	2	gelb
+2020-09-15 10:30:00	Bezirk	403	Oberösterreich	Wels	2	gelb
+2020-09-15 10:30:00	Bezirk	313	Niederösterreich	Krems(Land)	2	gelb
+2020-09-15 10:30:00	Bezirk	301	Niederösterreich	Krems an der Donau	2	gelb
+2020-09-15 10:30:00	Bezirk	709	Tirol	Schwaz	2	gelb
+2020-09-15 10:30:00	Bezirk	417	Oberösterreich	Vöcklabruck	2	gelb
+2020-09-15 10:30:00	Bezirk	408	Oberösterreich	Grieskirchen	2	gelb
+2020-09-15 10:30:00	Bezirk	325	Niederösterreich	Zwettl	2	gelb
+2020-09-15 10:30:00	Bezirk	307	Niederösterreich	Bruck an der Leitha	2	gelb
+2020-09-15 10:30:00	Bezirk	606	Steiermark	Graz-Umgebung	2	gelb
+2020-09-15 10:30:00	Bezirk	413	Oberösterreich	Rohrbach	2	gelb
+2020-09-15 10:30:00	Bezirk	405	Oberösterreich	Eferding	2	gelb
+2020-09-15 10:30:00	Bezirk	314	Niederösterreich	Lilienfeld	2	gelb
+2020-09-15 10:30:00	Bezirk	302	Niederösterreich	St. Pölten	2	gelb
+2020-09-15 10:30:00	Bezirk	802	Vorarlberg	Bregenz	2	gelb
+2020-09-15 10:30:00	Bezirk	418	Oberösterreich	Wels-Land	2	gelb
+2020-09-15 10:30:00	Bezirk	409	Oberösterreich	Kirchdorf an der Krems	2	gelb
+2020-09-15 10:30:00	Bezirk	401	Oberösterreich	Linz	2	gelb
+2020-09-15 10:30:00	Bezirk	308	Niederösterreich	Gänserndorf	2	gelb
+2020-09-15 10:30:00	Bezirk	703	Tirol	Innsbruck-Land	2	gelb
+2020-09-15 10:30:00	Bezirk	415	Oberösterreich	Steyr-Land	2	gelb
+2020-09-15 10:30:00	Bezirk	406	Oberösterreich	Freistadt	2	gelb
+2020-09-15 10:30:00	Bezirk	316	Niederösterreich	Mistelbach	2	gelb
+2020-09-15 10:30:00	Bezirk	304	Niederösterreich	Wiener Neustadt	2	gelb
+2020-09-15 10:30:00	Bezirk	804	Vorarlberg	Feldkirch	2	gelb
+2020-09-15 10:30:00	Bezirk	601	Steiermark	Graz	2	gelb
+2020-09-15 10:30:00	Bezirk	410	Oberösterreich	Linz-Land	2	gelb
+2020-09-15 10:30:00	Bezirk	402	Oberösterreich	Steyr	2	gelb
+2020-09-15 10:30:00	Bezirk	312	Niederösterreich	Korneuburg	2	gelb
+2020-09-15 10:30:00	Bezirk	706	Tirol	Landeck	2	gelb
+2020-09-15 10:30:00	Bezirk	702	Tirol	Imst	1	grün
+2020-09-15 10:30:00	Bezirk	310	Niederösterreich	Hollabrunn	1	grün
+2020-09-15 10:30:00	Bezirk	704	Tirol	Kitzbühel	1	grün
+2020-09-15 10:30:00	Bezirk	501	Salzburg	Salzburg (Stadt)	1	grün
+2020-09-15 10:30:00	Bezirk	708	Tirol	Reutte	1	grün
+2020-09-15 10:30:00	Bezirk	611	Steiermark	Leoben	1	grün
+2020-09-15 10:30:00	Bezirk	202	Kärnten	Villach Stadt	1	grün
+2020-09-18 10:30:00	Bundesland	9	Wien	NULL	3	orange
+2020-09-18 10:30:00	Bundesland	5	Salzburg	NULL	1	grün
+2020-09-18 10:30:00	Bundesland	2	Kärnten	NULL	1	grün
+2020-09-18 10:30:00	Bundesland	6	Steiermark	NULL	1	grün
+2020-09-18 10:30:00	Bundesland	3	Niederösterreich	NULL	1	grün
+2020-09-18 10:30:00	Bundesland	7	Tirol	NULL	1	grün
+2020-09-18 10:30:00	Bundesland	4	Oberösterreich	NULL	1	grün
+2020-09-18 10:30:00	Bundesland	1	Burgenland	NULL	1	grün
+2020-09-18 10:30:00	Bezirk	801	Vorarlberg	Bludenz	3	orange
+2020-09-18 10:30:00	Bezirk	325	Niederösterreich	Zwettl	3	orange
+2020-09-18 10:30:00	Bezirk	803	Vorarlberg	Dornbirn	3	orange
+2020-09-18 10:30:00	Bezirk	701	Tirol	Innsbruck-Stadt	3	orange
+2020-09-18 10:30:00	Bezirk	317	Niederösterreich	Mödling	3	orange
+2020-09-18 10:30:00	Bezirk	705	Tirol	Kufstein	3	orange
+2020-09-18 10:30:00	Bezirk	318	Niederösterreich	Neunkirchen	3	orange
+2020-09-18 10:30:00	Bezirk	703	Tirol	Innsbruck-Land	2	gelb
+2020-09-18 10:30:00	Bezirk	323	Niederösterreich	Wiener Neustadt (Land)	2	gelb
+2020-09-18 10:30:00	Bezirk	417	Oberösterreich	Vöcklabruck	2	gelb
+2020-09-18 10:30:00	Bezirk	408	Oberösterreich	Grieskirchen	2	gelb
+2020-09-18 10:30:00	Bezirk	306	Niederösterreich	Baden	2	gelb
+2020-09-18 10:30:00	Bezirk	101	Burgenland	Eisenstadt	2	gelb
+2020-09-18 10:30:00	Bezirk	804	Vorarlberg	Feldkirch	2	gelb
+2020-09-18 10:30:00	Bezirk	603	Steiermark	Deutschlandsberg	2	gelb
+2020-09-18 10:30:00	Bezirk	413	Oberösterreich	Rohrbach	2	gelb
+2020-09-18 10:30:00	Bezirk	313	Niederösterreich	Krems(Land)	2	gelb
+2020-09-18 10:30:00	Bezirk	405	Oberösterreich	Eferding	2	gelb
+2020-09-18 10:30:00	Bezirk	301	Niederösterreich	Krems an der Donau	2	gelb
+2020-09-18 10:30:00	Bezirk	706	Tirol	Landeck	2	gelb
+2020-09-18 10:30:00	Bezirk	401	Oberösterreich	Linz	2	gelb
+2020-09-18 10:30:00	Bezirk	418	Oberösterreich	Wels-Land	2	gelb
+2020-09-18 10:30:00	Bezirk	409	Oberösterreich	Kirchdorf an der Krems	2	gelb
+2020-09-18 10:30:00	Bezirk	307	Niederösterreich	Bruck an der Leitha	2	gelb
+2020-09-18 10:30:00	Bezirk	102	Burgenland	Rust	2	gelb
+2020-09-18 10:30:00	Bezirk	606	Steiermark	Graz-Umgebung	2	gelb
+2020-09-18 10:30:00	Bezirk	415	Oberösterreich	Steyr-Land	2	gelb
+2020-09-18 10:30:00	Bezirk	314	Niederösterreich	Lilienfeld	2	gelb
+2020-09-18 10:30:00	Bezirk	406	Oberösterreich	Freistadt	2	gelb
+2020-09-18 10:30:00	Bezirk	302	Niederösterreich	St. Pölten	2	gelb
+2020-09-18 10:30:00	Bezirk	709	Tirol	Schwaz	2	gelb
+2020-09-18 10:30:00	Bezirk	402	Oberösterreich	Steyr	2	gelb
+2020-09-18 10:30:00	Bezirk	501	Salzburg	Salzburg (Stadt)	2	gelb
+2020-09-18 10:30:00	Bezirk	410	Oberösterreich	Linz-Land	2	gelb
+2020-09-18 10:30:00	Bezirk	308	Niederösterreich	Gänserndorf	2	gelb
+2020-09-18 10:30:00	Bezirk	103	Burgenland	Eisenstadt-Umgebung	2	gelb
+2020-09-18 10:30:00	Bezirk	702	Tirol	Imst	2	gelb
+2020-09-18 10:30:00	Bezirk	316	Niederösterreich	Mistelbach	2	gelb
+2020-09-18 10:30:00	Bezirk	416	Oberösterreich	Urfahr-Umgebung	2	gelb
+2020-09-18 10:30:00	Bezirk	407	Oberösterreich	Gmunden	2	gelb
+2020-09-18 10:30:00	Bezirk	304	Niederösterreich	Wiener Neustadt	2	gelb
+2020-09-18 10:30:00	Bezirk	802	Vorarlberg	Bregenz	2	gelb
+2020-09-18 10:30:00	Bezirk	403	Oberösterreich	Wels	2	gelb
+2020-09-18 10:30:00	Bezirk	601	Steiermark	Graz	2	gelb
+2020-09-18 10:30:00	Bezirk	411	Oberösterreich	Perg	2	gelb
+2020-09-18 10:30:00	Bezirk	312	Niederösterreich	Korneuburg	2	gelb
+2020-09-18 10:30:00	Bezirk	202	Kärnten	Villach Stadt	2	gelb
+2020-09-18 10:30:00	Bezirk	707	Tirol	Lienz	1	grün
+2020-09-18 10:30:00	Bezirk	315	Niederösterreich	Melk	1	grün
+2020-09-18 10:30:00	Bezirk	414	Oberösterreich	Schärding	1	grün
+2020-09-18 10:30:00	Bezirk	708	Tirol	Reutte	1	grün
+2020-09-18 10:30:00	Bezirk	321	Niederösterreich	Tulln	1	grün
+2020-09-18 10:30:00	Bezirk	502	Salzburg	Hallein	1	grün
+2020-09-18 10:30:00	Bezirk	404	Oberösterreich	Braunau am Inn	1	grün
+2020-09-18 10:30:00	Bezirk	611	Steiermark	Leoben	1	grün
+2020-09-18 10:30:00	Bezirk	310	Niederösterreich	Hollabrunn	1	grün
+2020-09-18 10:30:00	Bezirk	412	Oberösterreich	Ried im Innkreis	1	grün
