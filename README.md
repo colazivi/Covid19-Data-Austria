@@ -11,6 +11,8 @@ For checking the data's integrity, please refer to the originals' backups at arc
 
 /tsv/website contains the data which was obtained from collecting the twice-daily updates of the ministry's website ( https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html )
 
+/tsv/ampel contains data relating to the 'Corona-Ampel'.
+
 /dump contains a recently updated database dump.
 
 /queries contains the SQL queries used for generating the tsv files.
@@ -29,6 +31,10 @@ Original data has been provided by the Austrian Ministry of Health under a [CC-B
 See also: [Open Data](https://www.data.gv.at/covid-19/)
 
 Some of the older data from the ministry's website may be based on contributions to the [Wikipedia article]( https://de.wikipedia.org/wiki/COVID-19-Pandemie_in_%C3%96sterreich).
+
+Data for the  'Corona-Ampel' comes from [Corona-Ampel][https://corona-ampel.gv.at/datendownload/] (CC-BY 4.0) Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK)
+
+The data for the municipalities comes from [Statistik Austria open.data][https://data.statistik.gv.at/] (CC-BY 4.0). It has been slightly adapted (mainly Vienna's entries).
 
 ## License
 This compilation is licensed under the CC-BY-SA 4.0 license.
