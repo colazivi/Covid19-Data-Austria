@@ -11,4 +11,4 @@ LEFT JOIN Bundesländer
 INNER JOIN Ampelfarben
 	ON Ampelfarben.id=Ampel.Warnstufe
 
-ORDER BY Zeitpunkt, Ampel.Region, Warnstufe DESC
+ORDER BY Zeitpunkt, Ampel.Region, Warnstufe DESC, Ampel.GKZ

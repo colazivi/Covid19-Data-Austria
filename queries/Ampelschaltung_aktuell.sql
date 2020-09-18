@@ -11,4 +11,4 @@ LEFT JOIN Bundesländer
 INNER JOIN Ampelfarben
 	ON Ampelfarben.id=Ampel.Warnstufe
 
-WHERE Zeitpunkt = ( SELECT MAX(Zeitpunkt) FROM Ampel ) ORDER BY Zeitpunkt, Ampel.Region, Warnstufe DESC
+WHERE Zeitpunkt = ( SELECT MAX(Zeitpunkt) FROM Ampel ) ORDER BY Zeitpunkt, Ampel.Region, Warnstufe DESC, Ampel.GKZ
