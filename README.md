@@ -4,6 +4,7 @@ This repository contains an almost complete compilation of the CSVs related to t
 The ministry's data is updated every hour, but - for the most part - does NOT contain any old entries which means that it is overwritten every hour. This is not an acceptable format for most purposes, so this repository aims to provide a timeline of the data.
 
 For checking the data's integrity, please refer to the originals' backups at archive.org ( https://web.archive.org/web/*/https://info.gesundheitsministerium.at/data/data.zip and https://web.archive.org/web/*/https://www.sozialministerium.at/Informationen-zum-Coronavirus/Neuartiges-Coronavirus-(2019-nCov).html )
+The Statistik Austria also provides a comprehensive collection of the ZIP files at their [inofficial Github-Account](https://github.com/statistikat/coronaDAT/tree/master/archive).
 
 ## Directory Structure
 
@@ -34,7 +35,9 @@ Some of the older data from the ministry's website may be based on contributions
 
 Data for the  'Corona-Ampel' comes from [Corona-Ampel](https://corona-ampel.gv.at/datendownload/) (CC-BY 4.0) Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK)
 
-The data for the municipalities comes from [Statistik Austria open.data](https://data.statistik.gv.at/) (CC-BY 4.0). It has been slightly adapted (mainly Vienna's entries).
+The data for municipalities and inhabitants comes from [Statistik Austria open.data](https://data.statistik.gv.at/) (CC-BY 4.0). It has been slightly adapted (mainly Vienna's entries).
+
+Some data entries have been taken from the [Inofficial Statistik Austria-Account](https://github.com/statistikat/coronaDAT/tree/master/archive) at github.
 
 ## License
 This compilation is licensed under the CC-BY-SA 4.0 license.
