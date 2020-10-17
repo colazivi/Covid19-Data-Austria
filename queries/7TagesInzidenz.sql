@@ -1,4 +1,4 @@
-SELECT B.GKZ, C.Bezirk, C.Bundesland, C.Artikel, (CAST(Anzahl_neu AS SIGNED) - CAST(IFNULL(Anzahl_alt, 0) AS SIGNED)) AS Differenz_Anzahl, ROUND(Inzidenz_neu - IFNULL(Inzidenz_alt, 0.0), 1) AS Differenz_Inzidenz, A.Timestamp AS Timestamp_Alt, B.Timestamp AS Timestamp_Neu, TIMESTAMPDIFF(DAY, A.Timestamp, B.Timestamp) AS Intervall FROM
+SELECT B.GKZ, C.Bezirk, C.Bundesland, C.Artikel, (CAST(Anzahl_neu AS SIGNED) - CAST(Anzahl_alt AS SIGNED)) AS Differenz_Anzahl, ROUND(Inzidenz_neu - Inzidenz_alt, 1) AS Differenz_Inzidenz, A.Timestamp AS Timestamp_Alt, B.Timestamp AS Timestamp_Neu, TIMESTAMPDIFF(DAY, A.Timestamp, B.Timestamp) AS Intervall FROM
 
 ( SELECT GKZ, Anzahl as Anzahl_alt, Anzahl_Inzidenz AS Inzidenz_alt, Timestamp FROM Bezirksinfektionen
 
