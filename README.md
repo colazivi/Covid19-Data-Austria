@@ -35,9 +35,9 @@ Some of the older data from the ministry's website may be based on contributions
 
 Data for the  'Corona-Ampel' comes from [Corona-Ampel](https://corona-ampel.gv.at/datendownload/) (CC-BY 4.0) Bundesministerium für Soziales, Gesundheit, Pflege und Konsumentenschutz (BMSGPK)
 
-The data for municipalities and inhabitants comes from [Statistik Austria open.data](https://data.statistik.gv.at/) (CC-BY 4.0). It has been slightly adapted (mainly Vienna's entries).
+The data for municipalities and population data come from [Statistik Austria open.data](https://data.statistik.gv.at/) (CC-BY 4.0). Some entries have been slightly adapted (mainly Vienna).
 
-Some data entries have been taken from the [Inofficial Statistik Austria-Account](https://github.com/statistikat/coronaDAT/tree/master/archive) at github.
+A few data entries have been taken from the [Inofficial Statistik Austria-Account](https://github.com/statistikat/coronaDAT/tree/master/archive) at github.
 
 ## License
 This compilation is licensed under the CC-BY-SA 4.0 license.
