@@ -1,95 +1,95 @@
 GKZ	Bezirk	Bundesland	Artikel	Differenz_Anzahl	Differenz_Inzidenz	Timestamp_Alt	Timestamp_Neu	Intervall
-203	Hermagor	Kärnten	Bezirk Hermagor	97	532.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-208	Völkermarkt	Kärnten	Bezirk Völkermarkt	198	472.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-505	Tamsweg	Salzburg	Bezirk Tamsweg	87	428.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-210	Feldkirchen	Kärnten	Bezirk Feldkirchen	119	397.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-502	Hallein	Salzburg	Bezirk Hallein	228	377.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-603	Deutschlandsberg	Steiermark	Bezirk Deutschlandsberg	225	369.9	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-702	Imst	Tirol	Bezirk Imst	192	319.7	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-305	Amstetten	Niederösterreich	Bezirk Amstetten	368	316.9	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-414	Schärding	Oberösterreich	Bezirk Schärding	179	312.4	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-707	Lienz	Tirol	Bezirk Lienz	150	307.7	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-104	Güssing	Burgenland	Bezirk Güssing	77	298.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-202	Villach Stadt	Kärnten	Villach	181	290.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-503	Salzburg-Umgebung	Salzburg	Bezirk Salzburg-Umgebung	438	287.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-706	Landeck	Tirol	Bezirk Landeck	125	281.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-622	Hartberg-Fürstenfeld	Steiermark	Bezirk Hartberg-Fürstenfeld	254	280.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-407	Gmunden	Oberösterreich	Bezirk Gmunden	279	274.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-417	Vöcklabruck	Oberösterreich	Bezirk Vöcklabruck	368	270.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-409	Kirchdorf an der Krems	Oberösterreich	Bezirk Kirchdorf an der Krems	152	267.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-207	Villach Land	Kärnten	Bezirk Villach-Land	172	266.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-209	Wolfsberg	Kärnten	Bezirk Wolfsberg	138	261.7	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-325	Zwettl	Niederösterreich	Bezirk Zwettl	108	255.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-620	Murtal	Steiermark	Bezirk Murtal	179	248.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-504	Sankt Johann im Pongau	Salzburg	Bezirk Sankt Johann im Pongau	193	239.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-703	Innsbruck-Land	Tirol	Bezirk Innsbruck-Land	423	235.9	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-415	Steyr-Land	Oberösterreich	Bezirk Steyr-Land	141	233.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-404	Braunau am Inn	Oberösterreich	Bezirk Braunau am Inn	238	228.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-302	St. Pölten	Niederösterreich	St. Pölten	124	225.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-610	Leibnitz	Steiermark	Bezirk Leibnitz	185	224.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-621	Bruck-Mürzzuschlag	Steiermark	Bezirk Bruck-Mürzzuschlag	214	216.2	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-204	Klagenfurt Land	Kärnten	Bezirk Klagenfurt-Land	128	214.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-803	Dornbirn	Vorarlberg	Bezirk Dornbirn	189	212.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-704	Kitzbühel	Tirol	Bezirk Kitzbühel	135	211.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-501	Salzburg (Stadt)	Salzburg	Salzburg (Stadt)	315	204.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-804	Feldkirch	Vorarlberg	Bezirk Feldkirch	216	201.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-315	Melk	Niederösterreich	Bezirk Melk	156	200.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-206	Spittal an der Drau	Kärnten	Bezirk Spittal an der Drau	152	199.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-418	Wels-Land	Oberösterreich	Bezirk Wels-Land	144	197.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-309	Gmünd	Niederösterreich	Bezirk Gmünd	72	195.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-303	Waidhofen an der Ybbs	Niederösterreich	Waidhofen an der Ybbs	22	195.4	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-614	Murau	Steiermark	Bezirk Murau	54	195.2	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-701	Innsbruck-Stadt	Tirol	Innsbruck	254	192.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-201	Klagenfurt Stadt	Kärnten	Klagenfurt am Wörthersee	193	191.4	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-413	Rohrbach	Oberösterreich	Bezirk Rohrbach	108	191.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-606	Graz-Umgebung	Steiermark	Bezirk Graz-Umgebung	282	182.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-314	Lilienfeld	Niederösterreich	Bezirk Lilienfeld	47	182.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-205	Sankt Veit an der Glan	Kärnten	Bezirk Sankt Veit an der Glan	99	181.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-318	Neunkirchen	Niederösterreich	Bezirk Neunkirchen	156	180.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-412	Ried im Innkreis	Oberösterreich	Bezirk Ried im Innkreis	110	179.7	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-612	Liezen (inkl. Gröbming)	Steiermark	Bezirk Liezen	143	179.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-406	Freistadt	Oberösterreich	Bezirk Freistadt	117	175.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-611	Leoben	Steiermark	Bezirk Leoben	103	171.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-802	Bregenz	Vorarlberg	Bezirk Bregenz	226	168.2	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-506	Zell am See	Salzburg	Bezirk Zell am See	147	168.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-411	Perg	Oberösterreich	Bezirk Perg	115	168.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-306	Baden	Niederösterreich	Bezirk Baden (Niederösterreich)	241	164.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-601	Graz	Steiermark	Graz	467	161.7	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-410	Linz-Land	Oberösterreich	Bezirk Linz-Land	235	156.4	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-408	Grieskirchen	Oberösterreich	Bezirk Grieskirchen	100	154.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-403	Wels	Oberösterreich	Wels (Stadt)	95	153.9	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-323	Wiener Neustadt (Land)	Niederösterreich	Bezirk Wiener Neustadt-Land	118	151.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-308	Gänserndorf	Niederösterreich	Bezirk Gänserndorf	156	150.5	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-317	Mödling	Niederösterreich	Bezirk Mödling	178	149.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-402	Steyr	Oberösterreich	Steyr	56	146.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-304	Wiener Neustadt	Niederösterreich	Wiener Neustadt	66	145.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-320	Scheibbs	Niederösterreich	Bezirk Scheibbs	60	144.9	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-623	Südoststeiermark	Steiermark	Bezirk Südoststeiermark	123	143.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-801	Bludenz	Vorarlberg	Bezirk Bludenz	91	142.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-617	Weiz	Steiermark	Bezirk Weiz	124	137.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-900	Wien	Wien	Wien	2606	137.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-307	Bruck an der Leitha	Niederösterreich	Bezirk Bruck an der Leitha	138	135.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-709	Schwaz	Tirol	Bezirk Schwaz	113	134.7	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-103	Eisenstadt-Umgebung	Burgenland	Bezirk Eisenstadt-Umgebung	55	128.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-416	Urfahr-Umgebung	Oberösterreich	Bezirk Urfahr-Umgebung	104	121.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-401	Linz	Oberösterreich	Linz	243	118.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-616	Voitsberg	Steiermark	Bezirk Voitsberg	57	111.4	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-105	Jennersdorf	Burgenland	Bezirk Jennersdorf	19	111.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-108	Oberpullendorf	Burgenland	Bezirk Oberpullendorf	41	109.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-321	Tulln	Niederösterreich	Bezirk Tulln	112	107.9	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-322	Waidhofen an der Thaya	Niederösterreich	Bezirk Waidhofen an der Thaya	27	104.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-109	Oberwart	Burgenland	Bezirk Oberwart	56	103.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-708	Reutte	Tirol	Bezirk Reutte	33	101.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-312	Korneuburg	Niederösterreich	Bezirk Korneuburg	86	94.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-705	Kufstein	Tirol	Bezirk Kufstein	99	90.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-107	Neusiedl am See	Burgenland	Bezirk Neusiedl am See	53	89.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-313	Krems(Land)	Niederösterreich	Bezirk Krems-Land	50	88.3	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-319	St. Pölten (Land)	Niederösterreich	Bezirk St. Pölten-Land	113	86.2	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-316	Mistelbach	Niederösterreich	Bezirk Mistelbach	64	84.8	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-311	Horn	Niederösterreich	Bezirk Horn	26	83.6	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-101	Eisenstadt	Burgenland	Eisenstadt	12	82.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-405	Eferding	Oberösterreich	Bezirk Eferding	27	81.4	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-106	Mattersburg	Burgenland	Bezirk Mattersburg	32	80.2	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-301	Krems an der Donau	Niederösterreich	Krems an der Donau	18	72.4	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-310	Hollabrunn	Niederösterreich	Bezirk Hollabrunn	28	55.1	2020-12-13 14:02:00	2020-12-20 14:02:00	7
-102	Rust	Burgenland	Rust (Burgenland)	0	0.0	2020-12-13 14:02:00	2020-12-20 14:02:00	7
+203	Hermagor	Kärnten	Bezirk Hermagor	100	548.7	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+208	Völkermarkt	Kärnten	Bezirk Völkermarkt	177	422.7	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+210	Feldkirchen	Kärnten	Bezirk Feldkirchen	111	370.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+502	Hallein	Salzburg	Bezirk Hallein	213	352.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+603	Deutschlandsberg	Steiermark	Bezirk Deutschlandsberg	210	345.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+414	Schärding	Oberösterreich	Bezirk Schärding	193	336.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+202	Villach Stadt	Kärnten	Villach	201	322.9	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+305	Amstetten	Niederösterreich	Bezirk Amstetten	356	306.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+505	Tamsweg	Salzburg	Bezirk Tamsweg	61	300.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+104	Güssing	Burgenland	Bezirk Güssing	76	294.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+503	Salzburg-Umgebung	Salzburg	Bezirk Salzburg-Umgebung	427	280.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+707	Lienz	Tirol	Bezirk Lienz	136	279.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+706	Landeck	Tirol	Bezirk Landeck	117	263.7	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+409	Kirchdorf an der Krems	Oberösterreich	Bezirk Kirchdorf an der Krems	149	262.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+407	Gmunden	Oberösterreich	Bezirk Gmunden	264	259.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+204	Klagenfurt Land	Kärnten	Bezirk Klagenfurt-Land	151	252.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+207	Villach Land	Kärnten	Bezirk Villach-Land	157	242.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+622	Hartberg-Fürstenfeld	Steiermark	Bezirk Hartberg-Fürstenfeld	219	241.7	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+325	Zwettl	Niederösterreich	Bezirk Zwettl	101	239.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+209	Wolfsberg	Kärnten	Bezirk Wolfsberg	125	237.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+504	Sankt Johann im Pongau	Salzburg	Bezirk Sankt Johann im Pongau	189	234.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+702	Imst	Tirol	Bezirk Imst	139	231.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+417	Vöcklabruck	Oberösterreich	Bezirk Vöcklabruck	314	230.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+404	Braunau am Inn	Oberösterreich	Bezirk Braunau am Inn	223	213.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+415	Steyr-Land	Oberösterreich	Bezirk Steyr-Land	128	211.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+302	St. Pölten	Niederösterreich	St. Pölten	114	207.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+610	Leibnitz	Steiermark	Bezirk Leibnitz	168	203.7	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+418	Wels-Land	Oberösterreich	Bezirk Wels-Land	148	202.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+620	Murtal	Steiermark	Bezirk Murtal	145	201.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+803	Dornbirn	Vorarlberg	Bezirk Dornbirn	177	198.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+612	Liezen (inkl. Gröbming)	Steiermark	Bezirk Liezen	157	196.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+804	Feldkirch	Vorarlberg	Bezirk Feldkirch	207	193.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+315	Melk	Niederösterreich	Bezirk Melk	150	192.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+201	Klagenfurt Stadt	Kärnten	Klagenfurt am Wörthersee	193	191.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+501	Salzburg (Stadt)	Salzburg	Salzburg (Stadt)	293	190.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+611	Leoben	Steiermark	Bezirk Leoben	113	188.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+621	Bruck-Mürzzuschlag	Steiermark	Bezirk Bruck-Mürzzuschlag	185	186.9	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+318	Neunkirchen	Niederösterreich	Bezirk Neunkirchen	160	185.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+704	Kitzbühel	Tirol	Bezirk Kitzbühel	114	178.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+309	Gmünd	Niederösterreich	Bezirk Gmünd	64	174.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+403	Wels	Oberösterreich	Wels (Stadt)	105	170.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+411	Perg	Oberösterreich	Bezirk Perg	116	169.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+320	Scheibbs	Niederösterreich	Bezirk Scheibbs	70	169.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+703	Innsbruck-Land	Tirol	Bezirk Innsbruck-Land	302	168.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+306	Baden	Niederösterreich	Bezirk Baden (Niederösterreich)	246	168.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+206	Spittal an der Drau	Kärnten	Bezirk Spittal an der Drau	126	165.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+506	Zell am See	Salzburg	Bezirk Zell am See	144	164.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+701	Innsbruck-Stadt	Tirol	Innsbruck	217	164.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+614	Murau	Steiermark	Bezirk Murau	45	162.7	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+606	Graz-Umgebung	Steiermark	Bezirk Graz-Umgebung	250	162.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+412	Ried im Innkreis	Oberösterreich	Bezirk Ried im Innkreis	99	161.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+303	Waidhofen an der Ybbs	Niederösterreich	Waidhofen an der Ybbs	18	159.8	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+205	Sankt Veit an der Glan	Kärnten	Bezirk Sankt Veit an der Glan	87	159.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+802	Bregenz	Vorarlberg	Bezirk Bregenz	214	159.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+408	Grieskirchen	Oberösterreich	Bezirk Grieskirchen	99	153.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+314	Lilienfeld	Niederösterreich	Bezirk Lilienfeld	39	151.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+317	Mödling	Niederösterreich	Bezirk Mödling	174	146.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+308	Gänserndorf	Niederösterreich	Bezirk Gänserndorf	151	145.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+801	Bludenz	Vorarlberg	Bezirk Bludenz	92	144.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+402	Steyr	Oberösterreich	Steyr	55	144.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+323	Wiener Neustadt (Land)	Niederösterreich	Bezirk Wiener Neustadt-Land	111	142.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+601	Graz	Steiermark	Graz	410	142.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+406	Freistadt	Oberösterreich	Bezirk Freistadt	91	136.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+900	Wien	Wien	Wien	2587	136.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+410	Linz-Land	Oberösterreich	Bezirk Linz-Land	200	133.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+709	Schwaz	Tirol	Bezirk Schwaz	109	130.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+413	Rohrbach	Oberösterreich	Bezirk Rohrbach	73	129.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+105	Jennersdorf	Burgenland	Bezirk Jennersdorf	22	128.9	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+623	Südoststeiermark	Steiermark	Bezirk Südoststeiermark	110	128.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+617	Weiz	Steiermark	Bezirk Weiz	115	127.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+304	Wiener Neustadt	Niederösterreich	Wiener Neustadt	57	125.9	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+307	Bruck an der Leitha	Niederösterreich	Bezirk Bruck an der Leitha	125	122.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+109	Oberwart	Burgenland	Bezirk Oberwart	63	116.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+401	Linz	Oberösterreich	Linz	237	115.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+108	Oberpullendorf	Burgenland	Bezirk Oberpullendorf	42	112.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+319	St. Pölten (Land)	Niederösterreich	Bezirk St. Pölten-Land	144	109.9	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+101	Eisenstadt	Burgenland	Eisenstadt	16	109.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+321	Tulln	Niederösterreich	Bezirk Tulln	107	103.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+103	Eisenstadt-Umgebung	Burgenland	Bezirk Eisenstadt-Umgebung	43	100.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+405	Eferding	Oberösterreich	Bezirk Eferding	33	99.5	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+313	Krems(Land)	Niederösterreich	Bezirk Krems-Land	56	98.9	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+708	Reutte	Tirol	Bezirk Reutte	32	97.9	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+107	Neusiedl am See	Burgenland	Bezirk Neusiedl am See	58	97.4	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+322	Waidhofen an der Thaya	Niederösterreich	Bezirk Waidhofen an der Thaya	25	96.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+416	Urfahr-Umgebung	Oberösterreich	Bezirk Urfahr-Umgebung	80	93.6	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+705	Kufstein	Tirol	Bezirk Kufstein	98	89.3	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+312	Korneuburg	Niederösterreich	Bezirk Korneuburg	80	88.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+616	Voitsberg	Steiermark	Bezirk Voitsberg	45	88.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+106	Mattersburg	Burgenland	Bezirk Mattersburg	35	87.7	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+311	Horn	Niederösterreich	Bezirk Horn	24	77.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+316	Mistelbach	Niederösterreich	Bezirk Mistelbach	56	74.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+310	Hollabrunn	Niederösterreich	Bezirk Hollabrunn	26	51.1	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+301	Krems an der Donau	Niederösterreich	Krems an der Donau	12	48.2	2020-12-14 14:02:00	2020-12-21 14:02:00	7
+102	Rust	Burgenland	Rust (Burgenland)	0	0.0	2020-12-14 14:02:00	2020-12-21 14:02:00	7
