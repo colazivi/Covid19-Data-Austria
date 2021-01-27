@@ -1,95 +1,95 @@
 GKZ	Bezirk	Bundesland	Artikel	Differenz_Anzahl	Differenz_Inzidenz	Timestamp_Alt	Timestamp_Neu	Intervall
-505	Tamsweg	Salzburg	Bezirk Tamsweg	103	506.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-707	Lienz	Tirol	Bezirk Lienz	142	291.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-504	Sankt Johann im Pongau	Salzburg	Bezirk Sankt Johann im Pongau	212	263.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-102	Rust	Burgenland	Rust (Burgenland)	5	257.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-206	Spittal an der Drau	Kärnten	Bezirk Spittal an der Drau	189	248.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-105	Jennersdorf	Burgenland	Bezirk Jennersdorf	42	246.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-203	Hermagor	Kärnten	Bezirk Hermagor	42	230.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-623	Südoststeiermark	Steiermark	Bezirk Südoststeiermark	197	229.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-502	Hallein	Salzburg	Bezirk Hallein	129	213.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-501	Salzburg (Stadt)	Salzburg	Salzburg (Stadt)	320	207.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-709	Schwaz	Tirol	Bezirk Schwaz	173	206.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-106	Mattersburg	Burgenland	Bezirk Mattersburg	79	197.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-320	Scheibbs	Niederösterreich	Bezirk Scheibbs	77	186.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-325	Zwettl	Niederösterreich	Bezirk Zwettl	76	180.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-313	Krems(Land)	Niederösterreich	Bezirk Krems-Land	92	162.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-303	Waidhofen an der Ybbs	Niederösterreich	Waidhofen an der Ybbs	18	159.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-503	Salzburg-Umgebung	Salzburg	Bezirk Salzburg-Umgebung	243	159.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-407	Gmunden	Oberösterreich	Bezirk Gmunden	161	158.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-204	Klagenfurt Land	Kärnten	Bezirk Klagenfurt-Land	93	155.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-304	Wiener Neustadt	Niederösterreich	Wiener Neustadt	69	152.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-308	Gänserndorf	Niederösterreich	Bezirk Gänserndorf	157	151.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-403	Wels	Oberösterreich	Wels (Stadt)	92	149.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-612	Liezen (inkl. Gröbming)	Steiermark	Bezirk Liezen	119	148.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-412	Ried im Innkreis	Oberösterreich	Bezirk Ried im Innkreis	91	148.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-323	Wiener Neustadt (Land)	Niederösterreich	Bezirk Wiener Neustadt-Land	113	144.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-506	Zell am See	Salzburg	Bezirk Zell am See	123	140.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-306	Baden	Niederösterreich	Bezirk Baden (Niederösterreich)	200	136.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-309	Gmünd	Niederösterreich	Bezirk Gmünd	50	136.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-104	Güssing	Burgenland	Bezirk Güssing	35	135.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-603	Deutschlandsberg	Steiermark	Bezirk Deutschlandsberg	81	133.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-620	Murtal	Steiermark	Bezirk Murtal	95	131.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-210	Feldkirchen	Kärnten	Bezirk Feldkirchen	37	123.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-411	Perg	Oberösterreich	Bezirk Perg	83	121.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-614	Murau	Steiermark	Bezirk Murau	33	119.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-305	Amstetten	Niederösterreich	Bezirk Amstetten	137	118.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-704	Kitzbühel	Tirol	Bezirk Kitzbühel	75	117.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-417	Vöcklabruck	Oberösterreich	Bezirk Vöcklabruck	160	117.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-322	Waidhofen an der Thaya	Niederösterreich	Bezirk Waidhofen an der Thaya	30	115.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-311	Horn	Niederösterreich	Bezirk Horn	36	115.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-406	Freistadt	Oberösterreich	Bezirk Freistadt	75	112.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-803	Dornbirn	Vorarlberg	Bezirk Dornbirn	98	110.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-321	Tulln	Niederösterreich	Bezirk Tulln	114	109.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-208	Völkermarkt	Kärnten	Bezirk Völkermarkt	46	109.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-404	Braunau am Inn	Oberösterreich	Bezirk Braunau am Inn	113	108.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-708	Reutte	Tirol	Bezirk Reutte	35	107.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-307	Bruck an der Leitha	Niederösterreich	Bezirk Bruck an der Leitha	107	104.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-804	Feldkirch	Vorarlberg	Bezirk Feldkirch	110	102.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-610	Leibnitz	Steiermark	Bezirk Leibnitz	83	100.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-405	Eferding	Oberösterreich	Bezirk Eferding	33	99.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-622	Hartberg-Fürstenfeld	Steiermark	Bezirk Hartberg-Fürstenfeld	90	99.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-107	Neusiedl am See	Burgenland	Bezirk Neusiedl am See	59	99.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-802	Bregenz	Vorarlberg	Bezirk Bregenz	133	99.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-108	Oberpullendorf	Burgenland	Bezirk Oberpullendorf	37	98.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-318	Neunkirchen	Niederösterreich	Bezirk Neunkirchen	85	98.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-410	Linz-Land	Oberösterreich	Bezirk Linz-Land	148	98.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-900	Wien	Wien	Wien	1830	96.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-621	Bruck-Mürzzuschlag	Steiermark	Bezirk Bruck-Mürzzuschlag	95	96.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-601	Graz	Steiermark	Graz	276	95.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-315	Melk	Niederösterreich	Bezirk Melk	74	94.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-310	Hollabrunn	Niederösterreich	Bezirk Hollabrunn	48	94.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-801	Bludenz	Vorarlberg	Bezirk Bludenz	60	94.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-616	Voitsberg	Steiermark	Bezirk Voitsberg	48	93.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-414	Schärding	Oberösterreich	Bezirk Schärding	52	90.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-408	Grieskirchen	Oberösterreich	Bezirk Grieskirchen	58	89.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-109	Oberwart	Burgenland	Bezirk Oberwart	47	86.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-703	Innsbruck-Land	Tirol	Bezirk Innsbruck-Land	155	86.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-401	Linz	Oberösterreich	Linz	176	85.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-314	Lilienfeld	Niederösterreich	Bezirk Lilienfeld	22	85.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-205	Sankt Veit an der Glan	Kärnten	Bezirk Sankt Veit an der Glan	45	82.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-606	Graz-Umgebung	Steiermark	Bezirk Graz-Umgebung	126	81.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-705	Kufstein	Tirol	Bezirk Kufstein	87	79.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-409	Kirchdorf an der Krems	Oberösterreich	Bezirk Kirchdorf an der Krems	45	79.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-301	Krems an der Donau	Niederösterreich	Krems an der Donau	19	76.4	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-617	Weiz	Steiermark	Bezirk Weiz	67	74.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-209	Wolfsberg	Kärnten	Bezirk Wolfsberg	39	74.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-418	Wels-Land	Oberösterreich	Bezirk Wels-Land	52	71.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-103	Eisenstadt-Umgebung	Burgenland	Bezirk Eisenstadt-Umgebung	30	69.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-317	Mödling	Niederösterreich	Bezirk Mödling	81	68.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-207	Villach Land	Kärnten	Bezirk Villach-Land	44	68.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-319	St. Pölten (Land)	Niederösterreich	Bezirk St. Pölten-Land	89	67.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-701	Innsbruck-Stadt	Tirol	Innsbruck	86	65.1	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-312	Korneuburg	Niederösterreich	Bezirk Korneuburg	58	63.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-316	Mistelbach	Niederösterreich	Bezirk Mistelbach	47	62.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-302	St. Pölten	Niederösterreich	St. Pölten	33	60.0	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-611	Leoben	Steiermark	Bezirk Leoben	36	59.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-201	Klagenfurt Stadt	Kärnten	Klagenfurt am Wörthersee	59	58.5	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-415	Steyr-Land	Oberösterreich	Bezirk Steyr-Land	34	56.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-702	Imst	Tirol	Bezirk Imst	33	54.9	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-101	Eisenstadt	Burgenland	Eisenstadt	8	54.7	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-413	Rohrbach	Oberösterreich	Bezirk Rohrbach	27	47.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-416	Urfahr-Umgebung	Oberösterreich	Bezirk Urfahr-Umgebung	39	45.6	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-202	Villach Stadt	Kärnten	Villach	26	41.8	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-706	Landeck	Tirol	Bezirk Landeck	17	38.3	2021-01-19 14:02:00	2021-01-26 14:02:00	7
-402	Steyr	Oberösterreich	Steyr	10	26.2	2021-01-19 14:02:00	2021-01-26 14:02:00	7
+505	Tamsweg	Salzburg	Bezirk Tamsweg	100	492.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+707	Lienz	Tirol	Bezirk Lienz	159	326.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+504	Sankt Johann im Pongau	Salzburg	Bezirk Sankt Johann im Pongau	214	265.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+623	Südoststeiermark	Steiermark	Bezirk Südoststeiermark	225	261.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+102	Rust	Burgenland	Rust (Burgenland)	5	257.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+206	Spittal an der Drau	Kärnten	Bezirk Spittal an der Drau	194	255.0	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+709	Schwaz	Tirol	Bezirk Schwaz	194	231.3	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+203	Hermagor	Kärnten	Bezirk Hermagor	40	219.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+105	Jennersdorf	Burgenland	Bezirk Jennersdorf	36	210.9	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+502	Hallein	Salzburg	Bezirk Hallein	123	203.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+320	Scheibbs	Niederösterreich	Bezirk Scheibbs	84	202.9	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+501	Salzburg (Stadt)	Salzburg	Salzburg (Stadt)	291	188.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+106	Mattersburg	Burgenland	Bezirk Mattersburg	71	177.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+308	Gänserndorf	Niederösterreich	Bezirk Gänserndorf	166	160.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+303	Waidhofen an der Ybbs	Niederösterreich	Waidhofen an der Ybbs	18	159.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+325	Zwettl	Niederösterreich	Bezirk Zwettl	66	156.3	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+313	Krems(Land)	Niederösterreich	Bezirk Krems-Land	85	150.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+323	Wiener Neustadt (Land)	Niederösterreich	Bezirk Wiener Neustadt-Land	117	150.0	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+503	Salzburg-Umgebung	Salzburg	Bezirk Salzburg-Umgebung	228	149.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+603	Deutschlandsberg	Steiermark	Bezirk Deutschlandsberg	91	149.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+612	Liezen (inkl. Gröbming)	Steiermark	Bezirk Liezen	119	148.9	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+412	Ried im Innkreis	Oberösterreich	Bezirk Ried im Innkreis	88	143.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+407	Gmunden	Oberösterreich	Bezirk Gmunden	145	142.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+204	Klagenfurt Land	Kärnten	Bezirk Klagenfurt-Land	84	140.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+104	Güssing	Burgenland	Bezirk Güssing	36	139.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+304	Wiener Neustadt	Niederösterreich	Wiener Neustadt	63	139.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+614	Murau	Steiermark	Bezirk Murau	37	133.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+403	Wels	Oberösterreich	Wels (Stadt)	81	131.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+306	Baden	Niederösterreich	Bezirk Baden (Niederösterreich)	191	130.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+411	Perg	Oberösterreich	Bezirk Perg	89	130.0	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+311	Horn	Niederösterreich	Bezirk Horn	39	125.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+309	Gmünd	Niederösterreich	Bezirk Gmünd	46	125.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+620	Murtal	Steiermark	Bezirk Murtal	88	122.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+704	Kitzbühel	Tirol	Bezirk Kitzbühel	76	119.0	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+305	Amstetten	Niederösterreich	Bezirk Amstetten	136	117.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+506	Zell am See	Salzburg	Bezirk Zell am See	102	116.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+321	Tulln	Niederösterreich	Bezirk Tulln	119	114.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+408	Grieskirchen	Oberösterreich	Bezirk Grieskirchen	72	111.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+417	Vöcklabruck	Oberösterreich	Bezirk Vöcklabruck	151	110.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+210	Feldkirchen	Kärnten	Bezirk Feldkirchen	33	110.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+406	Freistadt	Oberösterreich	Bezirk Freistadt	73	109.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+322	Waidhofen an der Thaya	Niederösterreich	Bezirk Waidhofen an der Thaya	28	108.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+404	Braunau am Inn	Oberösterreich	Bezirk Braunau am Inn	113	108.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+622	Hartberg-Fürstenfeld	Steiermark	Bezirk Hartberg-Fürstenfeld	98	108.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+803	Dornbirn	Vorarlberg	Bezirk Dornbirn	96	107.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+708	Reutte	Tirol	Bezirk Reutte	35	107.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+107	Neusiedl am See	Burgenland	Bezirk Neusiedl am See	63	105.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+410	Linz-Land	Oberösterreich	Bezirk Linz-Land	154	102.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+802	Bregenz	Vorarlberg	Bezirk Bregenz	136	101.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+621	Bruck-Mürzzuschlag	Steiermark	Bezirk Bruck-Mürzzuschlag	100	101.0	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+208	Völkermarkt	Kärnten	Bezirk Völkermarkt	42	100.3	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+804	Feldkirch	Vorarlberg	Bezirk Feldkirch	107	99.9	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+405	Eferding	Oberösterreich	Bezirk Eferding	33	99.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+801	Bludenz	Vorarlberg	Bezirk Bludenz	63	98.9	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+610	Leibnitz	Steiermark	Bezirk Leibnitz	78	94.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+315	Melk	Niederösterreich	Bezirk Melk	73	93.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+414	Schärding	Oberösterreich	Bezirk Schärding	53	92.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+310	Hollabrunn	Niederösterreich	Bezirk Hollabrunn	47	92.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+601	Graz	Steiermark	Graz	264	91.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+900	Wien	Wien	Wien	1735	91.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+616	Voitsberg	Steiermark	Bezirk Voitsberg	46	89.9	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+606	Graz-Umgebung	Steiermark	Bezirk Graz-Umgebung	136	88.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+401	Linz	Oberösterreich	Linz	178	86.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+409	Kirchdorf an der Krems	Oberösterreich	Bezirk Kirchdorf an der Krems	49	86.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+205	Sankt Veit an der Glan	Kärnten	Bezirk Sankt Veit an der Glan	47	86.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+705	Kufstein	Tirol	Bezirk Kufstein	93	84.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+703	Innsbruck-Land	Tirol	Bezirk Innsbruck-Land	152	84.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+318	Neunkirchen	Niederösterreich	Bezirk Neunkirchen	73	84.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+307	Bruck an der Leitha	Niederösterreich	Bezirk Bruck an der Leitha	86	84.3	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+314	Lilienfeld	Niederösterreich	Bezirk Lilienfeld	21	81.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+617	Weiz	Steiermark	Bezirk Weiz	72	79.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+108	Oberpullendorf	Burgenland	Bezirk Oberpullendorf	29	77.3	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+317	Mödling	Niederösterreich	Bezirk Mödling	91	76.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+109	Oberwart	Burgenland	Bezirk Oberwart	41	75.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+418	Wels-Land	Oberösterreich	Bezirk Wels-Land	55	75.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+701	Innsbruck-Stadt	Tirol	Innsbruck	98	74.2	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+301	Krems an der Donau	Niederösterreich	Krems an der Donau	18	72.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+316	Mistelbach	Niederösterreich	Bezirk Mistelbach	54	71.5	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+312	Korneuburg	Niederösterreich	Bezirk Korneuburg	64	70.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+201	Klagenfurt Stadt	Kärnten	Klagenfurt am Wörthersee	69	68.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+207	Villach Land	Kärnten	Bezirk Villach-Land	44	68.0	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+103	Eisenstadt-Umgebung	Burgenland	Bezirk Eisenstadt-Umgebung	29	67.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+209	Wolfsberg	Kärnten	Bezirk Wolfsberg	35	66.4	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+319	St. Pölten (Land)	Niederösterreich	Bezirk St. Pölten-Land	86	65.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+702	Imst	Tirol	Bezirk Imst	37	61.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+611	Leoben	Steiermark	Bezirk Leoben	37	61.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+202	Villach Stadt	Kärnten	Villach	36	57.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+302	St. Pölten	Niederösterreich	St. Pölten	31	56.3	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+101	Eisenstadt	Burgenland	Eisenstadt	8	54.7	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+415	Steyr-Land	Oberösterreich	Bezirk Steyr-Land	33	54.6	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+416	Urfahr-Umgebung	Oberösterreich	Bezirk Urfahr-Umgebung	46	53.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+413	Rohrbach	Oberösterreich	Bezirk Rohrbach	29	51.3	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+706	Landeck	Tirol	Bezirk Landeck	16	36.1	2021-01-20 14:02:00	2021-01-27 14:02:00	7
+402	Steyr	Oberösterreich	Steyr	11	28.8	2021-01-20 14:02:00	2021-01-27 14:02:00	7
